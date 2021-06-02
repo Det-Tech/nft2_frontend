@@ -1,0 +1,850 @@
+
+@media (max-width: 767px) {
+.hadder {
+	padding: 10px;
+}	
+.hadder .container {
+	padding: 0 5px;
+}
+.navbar-light .navbar-toggler {
+	color: #fff;
+	border-color: inherit;
+	background-color: transparent;
+	border: none;
+}
+.navbar-toggler:focus {
+	outline: none;
+}
+.hadder #navbarSupportedContent {
+	text-align: left !important;
+}
+.hadder #navbarSupportedContent li {
+	width: 100%;
+	margin: 0 0 0;
+	padding: 0;
+}	
+.hadder #navbarSupportedContent li a {
+	font-size: 15px;
+	width: 100%;
+	display: inline-block;
+	border-bottom: 1px solid #fff;
+	padding: 10px 0;
+	text-align: left;
+}
+.login a {
+	background-color: transparent;
+	color: #fff !important;
+	height: auto;
+	line-height: inherit;
+	text-align: center;
+}
+.selectpicker {
+	width: 100%;
+	padding: 10px 0 0 0;
+}	
+.drop::after {
+	right: 0;
+}
+#navbarSupportedContent {
+	border-top: 1px solid #fff;
+	margin: 12px 0 0 0;
+	padding-bottom: 10px;
+}
+.dashboard-saction .container {
+	padding: 0 10px;
+}.dashboard-saction-box {
+	margin: 13px 0 0;
+	padding: 10px;
+}
+.next-lable {
+	padding: 7px 0;
+	font-size: 18px;
+}
+.docter-list {
+	margin: 10px 0 0 0;
+	height: 300px;
+	padding: 4px 0 0 0;
+}
+.docter-list ul {
+	padding: 0 10px;
+}
+.docter-list ul .docter-name h4 {
+	font-size: 16px;
+	line-height: 13px;
+}
+.docter-list ul .docter-name span {
+	font-size: 14px;
+}
+.docter-list ul .docter-name {
+	margin: 7px 0 0 0;
+}
+.docter-list li .docter-image {
+	margin: 0 0 0 0;
+}
+.date-picker {
+	width: 100%;
+	margin: 15px 0 0 0;
+}
+.docter-list-drop {
+	width: 100%;
+	margin: 15px 0 0 0;
+}
+.select-dropdown::after {
+	border-top: 8px solid #fff;
+	border-right: 8px solid transparent;
+	border-left: 8px solid transparent;
+}
+.time-table h6 {
+	font-size: 20px;
+}
+.time-table ul {
+	margin: 10px 0;
+	padding: 15px 10px;
+	text-align: center;
+}
+.time-table ul li {
+	display: inline-block;
+	width: 49%;
+	margin: 0 0 3px 0;
+}
+.time-table ul li a {
+	padding: 10px 0px;
+	font-size: 16px;
+	font-weight: 500;
+	width: 100%;
+	display: inline-block;
+}	
+ul.tom hr {
+	margin: 12px 0 5px 0;
+}
+.back-next-btn {
+	margin: 20px 0 15px 0;
+}
+.back {
+	float: left;
+}
+.back-next-btn a {
+	padding: 8px 16px;
+	font-size: 13px;
+}	
+.back-next-btn a img {
+	width: 6px;
+	margin: 4px 0 0 -11px;
+}
+.next img {
+	margin: 4px 0 0 4px !important;
+}
+.docter-list li {
+	padding: 0 0px 5px 0;
+}
+.login.mobile {
+	display: none !important;
+}
+.login.mobile {
+	display: block !important;
+	position: absolute;
+	top: 21px;
+	right: 70px;
+}
+.login.mobile a {
+	font-weight: 500;
+	font-size: 15px;
+	background-color: #fff;
+	color: #000 !important;
+	padding: 4px 10px !important;
+	width: auto;
+	border-radius: 2px;
+	margin: 0 5px 0 0 !important;
+}
+.navbar-nav.mr-auto .login.mobile {
+	display: none !important;
+}
+.dateholder::after {
+	width: 33px;
+}
+.navbar-light .navbar-toggler-icon {
+	background-image: inherit !important;
+	background: url(../images/menu.png) !important;
+	background-size: cover !important;
+}	
+.left-home {
+	text-align: center;
+	margin: 20px 0 0 0;
+}
+.left-home h4 {
+	font-size: 24px;
+}
+.left-home h3 {
+	line-height: 26px;
+	margin: 10px 0 0 0;
+	font-size: 26px;
+}	
+.lin-img {
+	margin: 10px 0 0 0;
+}
+.search-btn {
+	margin: 14px 0 0 0;
+}
+.search-btn input {
+	width: 70%;
+	border: none;
+	padding: 8px 10px;
+	font-size: 16px;
+}
+.search-btn .btn.btn-primary {
+	padding: 7px 0;
+	width: 30%;
+	font-size: 18px;
+	float: right;
+}
+.dateholder h6 {
+	font-size: 18px;
+}
+.dateholder input {
+	padding: 10px 10px;
+}
+.docter-list-drop h6 {
+	font-size: 18px;
+}
+.select-dropdown select {
+	padding: 10px 10px;
+}
+[type="date"] {
+	background: url(../images/calendar.png) 95% 10px no-repeat;
+}
+
+
+
+
+.right-home img {
+	top: 0;
+	width: 100%;
+	margin: 20px 0 0 0;
+}
+.home-saction-box .footer-box-left {
+	width: 100%;
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	margin: 0 auto;
+	text-align: center;
+	background-color: rgba(0, 0, 0, 0.6);
+	padding: 8px 0;
+}
+.footer-box-left li {
+	margin: 0 10px;
+}
+li.contact-btn a {
+	border-radius: 14px;
+	padding: 0 12px;
+}
+.footer-box-left li a {
+	font-size: 15px;
+}
+.home-saction-box .row {
+    margin: 0 !important;
+}
+.book-docter-saction-box .col-md-6 {
+	padding: 0 0px;
+}
+.book-docter-saction-box {
+	margin: 10px 0 0 0;
+}
+.book-box-one {
+	padding: 15px;
+}
+.book-docter-saction-box h3 {
+	font-size: 20px;
+	margin: 10px 0 0 0;
+}
+.book-docter-saction-box p {
+	font-size: 13px;
+	padding: 0;
+	margin: 5px 0 0 0;
+}	
+.book-docter-saction-box img {
+	width: 24%;
+}	
+.book-box-tow {
+	padding: 15px;
+}
+.book-box-three {
+	padding: 15px;
+}
+.book-box-four {
+	padding: 15px;
+}
+.footer {
+	margin: 20px 0;
+	text-align: center;
+}
+.footer-box-right p {
+	text-align: center;
+	font-size: 12px;
+}	
+.footer .row {
+	margin-right: 0 !important;
+	margin-left: 0;
+	display: inline-block !important;
+	width: 100%;
+}
+.book-docter-saction-box .row {
+	display: inherit;
+	display: inherit !important;
+	-ms-flex-wrap: wrap;
+	flex-wrap: wrap;
+	margin-right: inherit;
+	margin-left: inherit;
+}
+.appointment-box img {
+	width: 100%;
+	margin: 10px 0 0 0;
+}
+.appointment-box-btn {
+	margin: 10px 0 0 0;
+	padding: 10px 0 0;
+}
+.appointment-box-btn a {
+	font-size: 16px;
+	padding: 10px 0;
+	margin: 0 0 10px 0;
+	letter-spacing: 1px;
+}
+.back-next-btn {
+	margin: 10px 0 10px 0;
+}
+.detals-box {
+	padding: 10px;
+}
+.img-name {
+	padding: 0;
+	font-size: 16px;
+}
+.sur-app-btn-all a {
+	font-size: 16px;
+}
+.appointment-box img {
+	width: auto;
+	margin: 0 10px 0 0;
+}
+.detals-box em {
+	margin: 5px 0 15px 0;
+}	
+.sur-app-btn-all {
+	padding: 20px 0;
+}
+.dashboard-saction-box.appointment-saction.appointment-one img {
+	width: 100%;
+}
+.appointment-cancel {
+	height: 100vh;
+}
+.patient-details-from {
+	width: 100%;
+}
+.patient-details-from.manger-from {
+	margin: 0 0;
+}
+.patient-details-from label {
+	font-size: 18px;
+	margin: 15px 0 5px 0;
+}
+.patient-details-from input {
+	padding: 10px 10px;
+	font-size: 16px;
+}
+.patient-details-from .full-row .radio {
+	width: 40%;
+}
+.patient-details-from .full-row select {
+	padding: 10px 10px;
+	font-size: 16px;
+}
+.info-from {
+	width: 100%;
+	padding: 10px 0;
+}
+.info-from label {
+	font-size: 18px;
+	margin: 15px 0 5px 0;
+}
+.info-from input {
+	padding: 10px 10px;
+	font-size: 16px;
+}
+.info-from h5 {
+	margin: 15px 0 0 0;
+	font-size: 18px;
+	font-weight: 800;
+}
+.save-cancel-btn a {
+	font-size: 14px;
+	padding: 8px 25px;
+}
+.patient-details-from {
+	margin: 10px 0;
+}
+.patient-details-from .firdt-name {
+	width: 100%;
+}
+.last-name {
+	width: 100%;
+}
+.mobile input {
+	width: 75%;
+}
+.mobile .get-a-code {
+	font-size: 14px;
+	padding: 12px 0;
+	width: 23%;
+}
+.dot {
+	margin: 20px 0;
+}
+.step {
+	height: 27px;
+	width: 27px;
+	margin: 0 2rem;
+	line-height: 27px;
+}
+#regForm {
+	width: 100%;
+	margin: 0 auto;
+	padding: 15px;
+}
+.fs-title {
+	font-size: 20px;
+}
+.fs-subtitle {
+	font-size: 16px;
+	margin-bottom: 0;
+}
+.left-side {
+	width: 100%;
+}
+.right-side {
+	width: 100%;
+}
+#regForm label {
+	font-size: 18px;
+	margin: 15px 0 5px 0;
+}
+#regForm input {
+	padding: 10px 10px;
+	font-size: 16px;
+}
+.next-prev {
+	margin: 20px 0 0 0;
+}
+#regForm button {
+	padding: 8px 20px;
+	font-size: 14px;
+}
+.radio input[type="radio"] {
+	left: 0;
+}
+#regForm .form-chek label {
+	font-size: 13px;
+}
+.form-chek label::before {
+	padding: 7px;
+}
+.thanku-saction-box {
+	margin: 20px auto;
+	width: 100%;
+	padding: 10px;
+	height: 100%;
+}
+.thanku-saction-box h3 {
+	font-size: 24px;
+	margin: 10px 0 0 0;
+}
+.thanku-saction-box p {
+	font-size: 15px;
+	margin: 0px 0 0 0;
+}
+.thanku-saction-box a {
+	font-size: 16px;
+	margin: 20px 0 15px 0;
+	padding: 8px 23px;
+	width: auto;
+	height: auto;
+	line-height: inherit;
+}
+.verifay-nbr-box #dialog {
+	margin: 10px auto 0;
+	width: 100%;
+	padding: 10px;
+	text-align: center;
+}
+.verifay-nbr-box #dialog h3 {
+	font-size: 20px;
+	margin: 10px 0 0 0;
+}
+.verifay-nbr-box #dialog span {
+	font-size: 14px;
+	margin: 0 0 0 0;
+}
+.verifay-nbr-box #dialog #form {
+	margin: 25px 0 0;
+}
+#form input {
+	margin: 0 3px;
+	text-align: center;
+	font-size: 30px;
+	width: 40px;
+	height: 40px;
+}
+.btn-veri {
+	margin: 30px 0 0 0;
+}
+.btn-veri .btn {
+	padding: 6px 20px;
+	font-size: 14px;
+	margin-bottom: 20px;
+}
+.name-add {
+	padding: 10px;
+}
+.your-appoinment-box {
+	height: auto;
+}
+.your-appoinment .your-appoinment-box .img-name {
+	padding: 10px 10px 0;
+}
+.your-appoinment .your-appoinment-box em {
+	padding: 0 10px;
+	margin: 6px 0;
+	display: inline-block;
+}
+.your-app-btn-all a {
+	width: 49%;
+	margin: 0 0 7px 0;
+	font-size: 14px;
+	padding: 7px 5px;
+	text-align: center;
+}
+.your-app-btn-all {
+	margin: 10px 0;
+}
+	
+
+}
+
+
+@media (width: 320px) {
+.step {
+	margin: 0 24px;
+}
+.thanku-saction-box p {
+	font-size: 14px;
+}
+.detals-box p {
+	font-size: 12px;
+}
+.detals-box p strong {
+	width: 80px;
+}
+#form input {
+	font-size: 25px;
+	width: 30px;
+	height: 30px;
+}
+.your-app-btn-all a {
+	font-size: 12px;
+	padding: 7px 0px;
+}
+
+
+}
+
+
+
+@media (width: 1920px) {
+
+}
+
+@media only screen and (min-width: 768px) and (max-width: 1024px)  {
+	.hadder {
+	padding: 10px;
+}	
+.hadder .container {
+	padding: 0 5px;
+}
+.navbar-light .navbar-toggler {
+	color: #fff;
+	border-color: #fff;
+	padding: 7px 12px;
+	background-color: #fff;
+}
+.navbar-toggler:focus {
+	outline: none;
+}
+.hadder #navbarSupportedContent {
+	text-align: left !important;
+}
+.hadder #navbarSupportedContent li {
+	width: 100%;
+	margin: 0 0 0;
+	padding: 0;
+}	
+.hadder #navbarSupportedContent li a {
+	font-size: 15px;
+	width: 100%;
+	display: inline-block;
+	border-bottom: 1px solid #fff;
+	padding: 10px 0;
+	text-align: left;
+}
+.login a {
+	background-color: transparent;
+	color: #fff !important;
+	height: auto;
+	line-height: inherit;
+	text-align: center;
+}
+.selectpicker {
+	width: 100%;
+	padding: 10px 0 0 0;
+}	
+.drop::after {
+	right: 0;
+}
+#navbarSupportedContent {
+	border-top: 1px solid #fff;
+	margin: 12px 0 0 0;
+	padding-bottom: 10px;
+}
+.dashboard-saction .container {
+	padding: 0 10px;
+}.dashboard-saction-box {
+	margin: 13px 0 0;
+	padding: 10px;
+}
+.next-lable {
+	padding: 7px 0;
+	font-size: 16px;
+}
+.docter-list {
+	margin: 10px 0 0 0;
+	height: 557px;
+	padding: 4px 0 0 0;
+}
+.docter-list ul {
+	padding: 0 10px;
+}
+.docter-list ul .docter-name h4 {
+	font-size: 14px;
+	line-height: 13px;
+}
+.docter-list ul .docter-name {
+	margin: 7px 0 0 0;
+}
+.docter-list li .docter-image {
+	margin: 0 0 0 0;
+}
+.date-picker {
+	width: 48%;
+	margin: 15px 0 0 0;
+}
+.docter-list-drop {
+	width: 48%;
+	margin: 15px 0 0 0;
+}
+.select-dropdown::after {
+	border-top: 8px solid #fff;
+	border-right: 8px solid transparent;
+	border-left: 8px solid transparent;
+}
+.time-table h6 {
+	font-size: 16px;
+}
+.time-table ul {
+	margin: 10px 0;
+	padding: 10px 10px;
+	text-align: left;
+}
+.time-table ul li {
+	display: inline-block;
+	width: 49%;
+	margin: 0 0 3px 0;
+}
+.time-table ul li a {
+	padding: 9px 0px;
+	font-size: 12px;
+	font-weight: 500;
+	width: 100%;
+	display: inline-block;
+	text-align: center;
+}	
+ul.tom hr {
+	margin: 12px 0 5px 0;
+}
+.back-next-btn {
+	margin: 20px 0 15px 0;
+}
+.back {
+	float: left;
+}
+.back-next-btn a {
+	padding: 8px 16px;
+	font-size: 13px;
+}	
+.back-next-btn a img {
+	width: 6px;
+	margin: 4px 0 0 -11px;
+}
+.next img {
+	margin: 4px 0 0 4px !important;
+}
+.docter-list li {
+	padding: 0 0px 5px 0;
+}
+.login.mobile {
+	display: block !important;
+	position: absolute;
+	top: 21px;
+	right: 85px;
+}
+.login.mobile a {
+	font-weight: 500;
+	font-size: 15px;
+	background-color: #fff;
+	color: #000 !important;
+	padding: 4px 10px !important;
+	width: auto;
+	border-radius: 2px;
+	margin: 0 5px 0 0 !important;
+}
+.navbar-light .navbar-toggler-icon {
+	background-image: inherit !important;
+	background: url(../images/menu.png) !important;
+	background-size: cover !important;
+}
+.navbar-light .navbar-toggler {
+	color: #fff;
+	border-color: inherit;
+	background-color: transparent;
+	border: none;
+}
+.patient-details-from {
+	width: 100%;
+}
+.had-app {
+	padding: 10px 0;
+	font-size: 17px;
+}
+.name-add {
+	padding: 10px;
+}
+.name-add p strong {
+	width: 100%;
+}
+.name-add p span {
+	width: 100%;
+	font-size: 12px;
+}
+.img-name {
+	padding: 10px 10px 0;
+	font-size: 14px;
+}
+.your-appoinment-box em {
+	padding: 0 0 0 10px;
+	font-size: 12px;
+}
+.your-appoinment-box {
+	height: 233px;
+}
+.your-app-btn-all {
+	margin: 20px 0;
+}
+.your-app-btn-all a {
+	margin: 0 4px 0 0;
+	font-size: 13px;
+	padding: 6px 20px;
+}
+.navbar-nav.mr-auto .login.mobile {
+	display: none !important;
+}
+.verifay-nbr-box #dialog {
+	margin: 2rem auto 0;
+	width: 80%;
+	padding: 20px;
+	text-align: center;
+}
+.thanku-saction-box {
+	margin: 2rem auto 0;
+	height: 270px;
+}
+.thanku-saction-box h3 {
+	font-size: 30px;
+}
+.thanku-saction-box p {
+	font-size: 16px;
+	margin: 10px 0 0 0;
+}
+.thanku-saction-box a {
+	font-size: 20px;
+	margin: 50px 0 0 0;
+	padding: 0;
+	width: 220px;
+	height: 50px;
+	line-height: 50px;
+}
+.step {
+	margin: 0 6rem;
+}
+#regForm {
+	width: 100%;
+}
+.info-from {
+	width: 100%;
+}
+.right-home img {
+	width: 100%;
+}
+.left-home {
+	margin: 60px 0 0 0;
+}
+.left-home h4 {
+	font-size: 25px;
+}
+.left-home h3 {
+	line-height: 32px;
+	margin: 10px 0 0 0;
+	font-size: 30px;
+}
+.lin-img {
+	margin: 10px 0 0 0;
+}
+.search-btn {
+	margin: 15px 0 0 0;
+}
+.search-btn .btn.btn-primary {
+	padding: 10px 0;
+	width: 20%;
+	font-size: 18px;
+}
+.search-btn input {
+	width: 80%;
+	font-size: 15px;
+}
+.docter-list li .docter-image {
+	width: 50px;
+	height: 50px;
+}
+.docter-list ul .docter-name {
+	width: 67%;
+}
+.docter-list ul .docter-name span {
+	font-size: 10px;
+}
+.select-dropdown {
+	margin: 10px 0 0;
+}
+
+
+
+
+}
